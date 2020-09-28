@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.ibb.co/RY6JcFQ/iconfinder-91-Discord-logo-logos-4373196.webp" \>You can add me on Discord at `Cube#1337`
+<img src="https://i.ibb.co/RY6JcFQ/iconfinder-91-Discord-logo-logos-4373196.webp"/>You can add me on Discord at `Cube#1337`
 
 <p align="center">
     <img src=https://github-readme-stats.vercel.app/api?username=pixelcookie11&show_icons=true alt=pixelcookie11 />
