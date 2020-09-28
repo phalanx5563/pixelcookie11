@@ -2,8 +2,9 @@
 
 You can add me on Discord at `Cube#1337`
 
-
+<p align="center">
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pixelcookie11&show_icons=true)
+</p>
 <!--
 **pixelcookie11/pixelcookie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
