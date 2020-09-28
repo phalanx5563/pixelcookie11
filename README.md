@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 You can add me on Discord at
+
 ### Cube#1337
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pixelcookie11&show_icons=true)
 <!--
